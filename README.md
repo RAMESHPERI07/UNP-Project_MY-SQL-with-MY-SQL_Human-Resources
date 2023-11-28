@@ -1,9 +1,7 @@
-During my internship with the United Network of Professionals (UNP), I successfully completed a project called "Maven_Market." Here are the key highlights:
+Completed this project as a part of my internship from United Network of ProfessionalsKey Highlights: (HR DATA)
 
-1.Database Creation: I created the "Maven_Market" database, which included tables for Customers, Products, Regions, Returns, Stores, and Transactions. To ensure data integrity, I implemented defined constraints.
+Key Highlights: Creation of database Implementation of primary and foreign key relationships Transformation of the data in Backup Database Inserting all the tables from original database to backup database Formulation of SQL queries Data migration to original database Highlighting the key insights from the data These steps demonstrate datbase management, data transformation and drawing key insights from the data through presentation of SQL queries
 
-2.Backup and Transformation: I backed up the database as "Maven_Market_Backup" and performed date column transformations for consistency. The modified data was then migrated back into the original database.
 
-3.Insightful Queries: I executed various queries to derive valuable insights, including:
-
-Calculating costs, sales figures, and revenue. Analyzing customer demographics and product performance. Segmenting revenue and sales data by region, income, and membership. This project not only involved technical skills in database management but also required analytical thinking to extract meaningful information for decision-making.
+SQL LINK https://drive.google.com/file/d/1cgKHGQA1VZeFBJ0jaRamzd6-Tb5JoeeU/view?usp=sharing
+PDF LINK https://drive.google.com/file/d/1MldeO3Qw3dSWyWNrheRqu_3gcuo8ZvsH/view?usp=sharing
