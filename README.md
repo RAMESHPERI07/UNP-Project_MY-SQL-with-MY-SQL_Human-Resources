@@ -4,4 +4,4 @@ Key Highlights: Creation of database Implementation of primary and foreign key r
 
 
 SQL LINK https://drive.google.com/file/d/1cgKHGQA1VZeFBJ0jaRamzd6-Tb5JoeeU/view?usp=sharing
-PDF LINK https://drive.google.com/file/d/1MldeO3Qw3dSWyWNrheRqu_3gcuo8ZvsH/view?usp=sharing
+PDF LINK https https://drive.google.com/file/d/1MG9Hsfr9uy810LL72dy3YthCkf5iTZ9d/view?usp=sharing
